@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Evidencias · Portafolio Docencia</title>
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-title">
+        <a href="../index.html">
+          <h1>Portafolio de Grado de Especialidad en Docencia</h1>
+        </a>
+      </div>
+      <nav class="main-nav" aria-label="Navegación principal">
+        <ul class="nav-list">
+          <li class="nav-item has-dropdown">
+            <a href="autor.html" class="nav-link">Presentación del Autor</a>
+            <ul class="dropdown">
+              <li><a href="autor.html#bienvenida">Bienvenida</a></li>
+              <li><a href="autor.html#datos-biograficos">Datos Biográficos</a></li>
+              <li><a href="autor.html#formacion">Formación</a></li>
+              <li><a href="autor.html#experiencia">Experiencia Docente</a></li>
+            </ul>
+          </li>
+          <li class="nav-item has-dropdown active">
+            <a href="evidencias.html" class="nav-link">Evidencias</a>
+            <ul class="dropdown">
+              <li><a href="#cosmovision">Cosmovisión</a></li>
+              <li><a href="#transferencia">Transferencia y Aporte</a></li>
+              <li><a href="#integradoras">Integradoras</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="page-evidencias">
+
+    <div class="page-hero">
+      <h2>Evidencias</h2>
+      <p>Evidencias organizadas por categoría que demuestran el desarrollo de competencias docentes.</p>
+    </div>
+
+    <div class="filter-bar" role="group" aria-label="Filtrar por tipo de evidencia">
+      <button class="filter-btn active" data-filter="all">Todas</button>
+      <button class="filter-btn" data-filter="cosmovision">Cosmovisión</button>
+      <button class="filter-btn" data-filter="transferencia">Transferencia y Aporte</button>
+      <button class="filter-btn" data-filter="integradora">Integradoras</button>
+    </div>
+
+    <div class="evidencias-wrapper">
+
+      <section id="cosmovision" class="evidencias-group">
+        <h2 class="group-title cosmovision-title">Cosmovisión</h2>
+        <div class="evidencias-grid" id="grid-cosmovision"></div>
+      </section>
+
+      <section id="transferencia" class="evidencias-group">
+        <h2 class="group-title transferencia-title">Transferencia y Aporte</h2>
+        <div class="evidencias-grid" id="grid-transferencia"></div>
+      </section>
+
+      <section id="integradoras" class="evidencias-group">
+        <h2 class="group-title integradoras-title">Integradoras</h2>
+        <div class="evidencias-grid" id="grid-integradoras"></div>
+      </section>
+
+    </div>
+
+    <p id="no-results" class="no-results hidden">No hay evidencias para el filtro seleccionado.</p>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 · Portafolio de Grado de Especialidad en Docencia</p>
+  </footer>
+
+  <script src="../js/main.js"></script>
+</body>
+</html>
