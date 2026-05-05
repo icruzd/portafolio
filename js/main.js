@@ -56,7 +56,7 @@ const evidencias = [
     descripcion: "Se describió la centralidad de la Biblia en el trabajo cotidiano y cómo fundamentar con la Biblia mi posición de valores. Se presenta el uso de la Biblia desde diferentes perspectivas de uso y áreas de beneficio, usando como herramienta auxiliar el libro de La Educación (de Ellen White).",
     imagen: "",
     archivo: "../assets/docs/cosmo_rol_biblia_enla_cosmovisión_demi_tarea_docente_01.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -64,7 +64,7 @@ const evidencias = [
     descripcion: "Se exploró acerca de lo que la Biblia y el libro La Educación dicen del rol de un maestro; se consideraron también otras fuentes para fundamentar y consolidar el pensamiento sobre la tarea docente y el desarrollo de los talentos, oportunidades y desafíos personales, al realizar un plan de mejora.",
     imagen: "",
     archivo: "../assets/docs/cosmo_desarrollo_docente_desde_cosmovision_biblica_02.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -72,7 +72,7 @@ const evidencias = [
     descripcion: "Fue una oportunidad para verificar que los elementos de la formación general universitaria que colaboran en la conformación de una cosmovisión bíblica del estudiante en la UM están acordes a lo que encontramos en la Biblia y en el Espíritu de Profecía. Desde el trabajo manual y físico hasta las habilidades del pensamiento más elevado.",
     imagen: "",
     archivo: "../assets/docs/cosmo_elementos_fundamentales_formación_general_03.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -88,7 +88,7 @@ const evidencias = [
     descripcion: "En la tutoría es importante realizar un diagnóstico inicial que permita orientar adecuadamente al estudiante en su proceso educativo. Se analizaron los resultados del instrumento diagnóstico, se analizaron las fortalezas y debilidades de los alumnos, se identificaron posibles casos de riesgo y se llevaron a cabo entrevistas de seguimiento. Se elaboró un informe reflexivo que integra las observaciones e impresiones obtenidas durante el proceso.",
     imagen: "",
     archivo: "../assets/docs/tut_resultados_diagnostico01.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -96,7 +96,7 @@ const evidencias = [
     descripcion: "A partir de los resultados del diagnóstico de tutoría, se diseñó e implementó un plan de acción tutorial orientado a la atención de los estudiantes, alineado con la misión institucional, el perfil docente y la formación integral. Como evidencia, se presentó el plan junto con una reflexión sobre su implementación.",
     imagen: "",
     archivo: "../assets/docs/tut_plan_accion_tutorial02.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -104,7 +104,7 @@ const evidencias = [
     descripcion: "La reunión de recepción de sábado permitió conocer mejor a los estudiantes, sus familias y las dificultades de estar lejos de casa. Los espacios de convivencia fortalecieron la confianza y el sentido de pertenencia. Las asesorías de portafolios brindaron oportunidades adicionales para el acompañamiento cercano. Se atendió un caso personal que, con apoyo, ha mostrado mejoría. También se intervino en una situación de riesgo académico, promoviendo estrategias de estudio. Se destacó la importancia del trabajo colaborativo y el apoyo institucional en el bienestar estudiantil.",
     imagen: "",
     archivo: "../assets/docs/tut_resultados_plan_accion03.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -120,7 +120,7 @@ const evidencias = [
     descripcion: "Se consolidó una cosmovisión bíblica de la evaluación, traduciéndola en criterios prácticos aplicados a la práctica docente. Se identificaron y fundamentaron, desde la perspectiva bíblica, los criterios para evaluar una unidad de aprendizaje. Asimismo, se reconocieron aspectos de la evaluación que no se aplicaban o se realizaban de forma contraria a lo establecido en la Biblia. Se reflexionó sobre los cambios necesarios y se elaboró un ensayo con los criterios a incorporar o modificar.",
     imagen: "",
     archivo: "../assets/docs/evalaprend_reflexion_fund_dela_evaluacion_apren_01.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -128,7 +128,7 @@ const evidencias = [
     descripcion: "Se elaboraron criterios de evaluación basados en la Biblia y se diseñaron instrumentos y procesos de evaluación hacia tres niveles de aprendizaje según la taxonomía de Bloom. Esto se elaboró para una unidad de la asignatura Matemáticas Discretas, integrando evaluación diagnóstica, formativa y sumativa, con base en criterios bíblicos y al menos tres niveles de la taxonomía de Bloom. Se revisaron y ajustaron los instrumentos y procesos de evaluación, asegurando su coherencia con el aprendizaje esperado. Finalmente, se comunicaron oportunamente los cambios a los estudiantes, explicando su propósito en la mejora del proceso de evaluación.",
     imagen: "",
     archivo: "../assets/docs/evalaprend_evaluación_de_la_unidad_02_1.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -136,7 +136,7 @@ const evidencias = [
     descripcion: "Se presentaron los resultados de la evaluación de la unidad 4 de Matemáticas Discretas en Ingeniería en Sistemas. Se modificó la estrategia de evaluación durante el curso, pasando de un enfoque centrado en examen a uno orientado a niveles superiores de la taxonomía de Bloom. Se incorporó la implementación de soluciones mediante programación, esquematización, documentación y exposición. Esto implicó redistribuir los porcentajes de evaluación y reducir el peso del examen escrito. El cambio representó ventajas en el desarrollo de competencias, aunque generó desafíos en la gestión del tiempo. En general, los estudiantes aceptaron positivamente la nueva estrategia, valorando su flexibilidad y enfoque práctico.",
     imagen: "",
     archivo: "../assets/docs/evalaprend_resultados_nueva_eval_unidad_3_1.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -152,7 +152,7 @@ const evidencias = [
     descripcion: "Se realizó un análisis de las estrategias de enseñanza a la luz de los fundamentos bíblicos y del modelo didáctico UM de la materia Matemáticas Discretas, identificando fortalezas y oportunidades para mejorar mediante alguna innovación didáctica posterior. Este proceso requiere ser sincero con uno mismo para aceptar verdaderamente lo que no estamos haciendo bien.",
     imagen: "",
     archivo: "../assets/docs/inno_materia_seleccionada_MD_01.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -160,7 +160,7 @@ const evidencias = [
     descripcion: "Se elaboró un reporte que incluyó un plan didáctico para una unidad de la materia Matemáticas Discretas, incorporando y justificando la estrategia de proyectos y resolución de problemas.",
     imagen: "",
     archivo: "../assets/docs/inno_estrategi_activa_MD_2a.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -168,7 +168,7 @@ const evidencias = [
     descripcion: "Se extendió el uso de estrategias activas en el ámbito de la iglesia en la presentación de la escuela sabática y sociedad de jóvenes como contexto no escolar, lo cual resultó muy provechoso, ya que se percibió una mejor actitud y ambiente para el aprendizaje.",
     imagen: "",
     archivo: "../assets/docs/inno_estrategia_activa_ambiente_noformal_Iglesia_es_3a.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -176,7 +176,7 @@ const evidencias = [
     descripcion: "Nuestra generación está siendo testigo de la revolución tecnológica que se está llevando a cabo. El uso de la tecnología y la inteligencia artificial en la enseñanza y el aprendizaje puede potenciar el aprendizaje significativo y transformar la enseñanza, sin embargo, su uso debe considerarse bajo los principios éticos que provienen del enfoque bíblico y de las leyes de la mente. Se consideró integrar la herramienta de IA Dwise, que permite transportar diseños de aplicaciones a un prototipo funcional, lo cual es beneficioso porque acelera el proceso de desarrollo de software, aunque podría limitar el aprendizaje profundo.",
     imagen: "",
     archivo: "../assets/docs/inno_tecs_e_ IA_en_aprendizaje_enseñanza_4a.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -192,7 +192,7 @@ const evidencias = [
     descripcion: "",
     imagen: "",
     archivo: "../assets/docs/evcurr_reflexion_evaluacion_curricular_01.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "cosmovision",
@@ -200,7 +200,7 @@ const evidencias = [
     descripcion: "Se realizó un trabajo extenso en la revisión y evaluación del currículo de la carrera de Ingeniería en Sistemas Computacionales bajo criterios fundamentados en la Biblia. Además, se revisaron los escenarios de mejora continua que provee el Plan Diamante.",
     imagen: "",
     archivo: "../assets/docs/evcurr_reflexion_ trabajo_realizado_en_perfil_egreso_2a.pdf",
-    reflexion: "."
+    reflexion: ""
   },
 
 
@@ -234,7 +234,7 @@ const evidencias = [
     descripcion: "Me permitió estructurar un proyecto, fundamentarlo, justificarlo y planear su desarrollo, además de presentarlo ante una audiencia. Se desarrolló la propuesta completa de la investigación que se presentó en la feria de investigación.",
     imagen: "",
     archivo: "",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "transferencia",
@@ -242,7 +242,7 @@ const evidencias = [
     descripcion: "Se redactaron los elementos principales del tema de investigación.",
     imagen: "",
     archivo: "../assets/docs/inv2_protocolo.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "transferencia",
@@ -250,7 +250,7 @@ const evidencias = [
     descripcion: "Se tuvo la oportunidad de recibir retroalimentación acerca de la propuesta o problema de investigación. Presentar una idea ante un público general o especializado es siempre un desafío, y en lo personal fue una experiencia emocionante aunque con algo de nerviosismo.",
     imagen: "",
     archivo: "../assets/docs/skepsis_2025.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "transferencia",
@@ -258,7 +258,7 @@ const evidencias = [
     descripcion: "En lo personal, el tema de la investigación ha sido un desafío, pero ha sido una experiencia grata que, aunque genera nerviosismo, me gustaría desarrollar con avances significativos en esta área.",
     imagen: "",
     archivo: "../assets/docs/anaptisis.pdf",
-    reflexion: "."
+    reflexion: ""
   },
 
   {
@@ -275,7 +275,7 @@ const evidencias = [
     descripcion: "Los proyectos integradores fueron clave para comprender la importancia del proceso didáctico y la efectividad de los proyectos integradores.",
     imagen: "",
     archivo: "",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -283,7 +283,7 @@ const evidencias = [
     descripcion: "Me permitió comprender mejor el desarrollo de una secuencia didáctica.",
     imagen: "",
     archivo: "../assets/docs/apps_tecs_pi_secuencia_didactica.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -291,7 +291,7 @@ const evidencias = [
     descripcion: "Comprendí aspectos importantes de la evaluación y cómo planificarla mejor con la ayuda de la IA.",
     imagen: "",
     archivo: "../assets/docs/pi_evaluacion.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -299,7 +299,7 @@ const evidencias = [
     descripcion: "El desarrollo de contenidos siempre fue la parte en que dedicaba muchísimas horas, pero ahora pondré más tiempo en el desarrollo de la secuencia didáctica, la evaluación y la selección de las actividades significativas.",
     imagen: "",
     archivo: "../assets/docs/appstecs_pi_materiales.pdf",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -307,7 +307,7 @@ const evidencias = [
     descripcion: "La tutoría académica integra todos los componentes: físico, mental, espiritual, social, etc. Me permitió concretar la secuencia de pasos para la atención tutorial y hacerla más efectiva, mediante el análisis del diagnóstico y la ejecución de un plan de acción de tutoría.",
     imagen: "",
     archivo: "",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -315,7 +315,7 @@ const evidencias = [
     descripcion: "",
     imagen: "",
     archivo: "../assets/docs/tutoria.zip",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -323,7 +323,7 @@ const evidencias = [
     descripcion: "Me permitió ampliar mi perspectiva acerca de los principios que podemos aplicar al evaluar diversos aspectos de mis cursos, al revisar los consejos de la Biblia al respecto. También me permitió practicar el ajuste de los criterios de evaluación para hacerlos más justos, alcanzables y diversos.",
     imagen: "",
     archivo: "",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -331,7 +331,7 @@ const evidencias = [
     descripcion: "",
     imagen: "",
     archivo: "../assets/docs/evalaprend.zip",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -339,7 +339,7 @@ const evidencias = [
     descripcion: "Tuve la oportunidad de revisar los principios didácticos que presenta la Biblia, principalmente en la forma de enseñar de Jesús, además de utilizar la escala de Bloom para seleccionar las actividades de mayor profundidad y el uso de estrategias activas para implementarlas en ambientes educativos y no formales, mediante resolución de problemas y realización de proyectos.",
     imagen: "",
     archivo: "",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -347,7 +347,7 @@ const evidencias = [
     descripcion: "",
     imagen: "",
     archivo: "../assets/docs/inno_didac.zip",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -355,7 +355,7 @@ const evidencias = [
     descripcion: "Fue muy importante porque me permitió identificar elementos del currículo, analizarlos, evaluarlos y diseñar partes de este como el proyecto integrador. La revisión fue realizada por el consejo técnico y realmente es un trabajo arduo. Fue una de las actividades más desafiantes y amplias.",
     imagen: "",
     archivo: "",
-    reflexion: "."
+    reflexion: ""
   },
   {
     tipo: "integradora",
@@ -363,7 +363,7 @@ const evidencias = [
     descripcion: "",
     imagen: "",
     archivo: "../assets/docs/evcurr.zip",
-    reflexion: "."
+    reflexion: ""
   },
 ];
 
