@@ -1,10 +1,11 @@
 /* =============================================
    Evidence data — update with real content
    ============================================= */
+   
 const evidencias = [
   {
     tipo: "cosmovision",
-    competencia: "Competencia de cosmovision: Tomar decisiones sabias basadas en los principios de la Santa Biblia y ser capaz de fundamentarlas en ambientes académicos.",
+    competencia: "Competencia_: Tomar decisiones sabias basadas en los principios de la Santa Biblia y ser capaz de fundamentarlas en ambientes académicos.",
     descripcion: "Durante el desarrollo de la especialidad se tuvo la oportunidad de participar en Aplicaciones Tecnológicas en los Procesos de Enseñanza y Aprendizaje.",
     imagen: "",
     archivo: "",
